@@ -1,0 +1,6 @@
+This paper presents a comparative analysis between two main simulation environments: HoloOcean and Stonefish. It considers the physics-based model, implementation of sensors for underwater activities, and complexity to modify the environment to demonstrate the strengths and weak-
+nesses of each simulator. The goal is to provide insight into research projects in which these simulators might yield better results. The evaluation involves creating different environments where Autonomous Underwater Vehicles (AUVs) are equipped with various sensors to perform under-
+water tasks. By collecting information through the sensors used in each simulation and observing the overall behavior of the AUVs, a comparison between these two simulators is conducted. Given that acoustic images are widely used to develop algorithms for improving vehicle autonomy, sonar
+systems are evaluated more deeply than any other sensor.
+Both simulation environments showcase excellent rendering capabilities and are highly advancedin creating underwater scenarios for autonomous vehicles. However, the intrinsic nature of each simulator yields remarkable results: HoloOcean, leveraging an external graphics engine, produces sensor images of superior quality and resolution, while Stonefish excels in simulating water 
+physics and provides more advanced underwater sensors.
